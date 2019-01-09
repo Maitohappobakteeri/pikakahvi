@@ -1,0 +1,6 @@
+.idea
+*.gch
+local.properties
+android/app/src/main/cpp/generated.hpp
+android/app/src/main/java/com/example/juho/pikakahvi/data/
+__pycache__

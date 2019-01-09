@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMain">#d2d8ef</color>
+    <color name="colorSide">#73788e</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPriority0">#888888</color>
+    <color name="colorPriority1">#AAAABB</color>
+    <color name="colorPriority2">#449944</color>
+    <color name="colorPriority3">#F88800</color>
+    <color name="colorPriority4">#AA2425</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

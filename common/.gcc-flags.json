@@ -1,0 +1,9 @@
+{
+  "execPath": "/usr/bin/g++",
+  "gccDefaultCFlags": "-Wall",
+  "gccDefaultCppFlags": "-Wall -std=c++11 -fsyntax-only",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": ".,./common",
+  "gccSuppressWarnings": false,
+  "compileCommandsFile": "./common/build/compile_commands.json"
+}

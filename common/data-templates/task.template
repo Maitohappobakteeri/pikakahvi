@@ -1,0 +1,7 @@
+Task task
+int id id
+string title title
+bool done done
+int listId list
+int timeDone time_done
+int priority priority
